@@ -1,0 +1,15 @@
+accelerate
+compel==2.0.3
+deepcache==0.1.1
+diffusers==0.30.3
+einops==0.8.0
+hf-transfer
+ipykernel
+ipywidgets
+numpy==1.26.4
+peft
+pillow
+ruff==0.5.7
+torch==2.2.0
+torchvision==0.17.0
+transformers==4.43.4
